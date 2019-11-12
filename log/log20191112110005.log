@@ -1,0 +1,4 @@
+2019-11-12 11:00:06,142 INFO [root] [Test_iHRM_Emp.py(test_add_emp:25)] - add
+2019-11-12 11:00:06,157 INFO [root] [Test_iHRM_Emp.py(test_update_emp:39)] - update
+2019-11-12 11:00:06,173 INFO [root] [Test_iHRM_Emp.py(test_select_emp:47)] - select
+2019-11-12 11:00:06,204 INFO [root] [Test_iHRM_Emp.py(test_delete_emp:55)] - delete
